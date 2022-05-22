@@ -53,8 +53,7 @@ int main(){
         arr[x] = value[d];
         n++;
         d++;
-
-    if(i >= index[d] ){
+/*      if(i >= index[d] ){
     for ( i=n-1 ; i>=index[d] ; i--){
             arr[i+1] = arr[i];
         }
@@ -64,7 +63,9 @@ int main(){
         d++;
         n++;
 
-    }
+    }   
+ */
+      
     }
     printf("After Enter all the Value & index : \n");
 
