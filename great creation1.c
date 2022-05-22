@@ -53,6 +53,7 @@ int main(){
         arr[x] = value[d];
         n++;
         d++;
+      
 /*      if(i >= index[d] ){
     for ( i=n-1 ; i>=index[d] ; i--){
             arr[i+1] = arr[i];
