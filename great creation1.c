@@ -1,9 +1,14 @@
 /*
+# we can insert as many value in our desired index as our wish as long it doesn't overflow..
+
 # we wil get input from user how many value we need to insert from user..
+
 # then according to that we will create extra two array for index and value...
-# for example: we have an array 1 2 3 4 5 6 7 8 9 10
-  and we want to insert 4 value in 4 new index such as input 100 in index 0, 200 in index 2, 300 in index 4 ,400 in index 6...
-# then the output will show 100 1 200 2 300 3 400 4 5 6 7 8 9 10
+
+# for example: we have an array: arr[100]=1 2 3 4 5 6 7 8 9 10
+  and we want to insert k=4 value in k=4 new index such as input : 100 in index 0, 200 in index 2, 300 in index 4 ,400 in index 6...
+
+# then the output will show: 100 1 200 2 300 3 400 4 5 6 7 8 9 10
 */
 
 #include <stdio.h>
