@@ -16,9 +16,11 @@
 int main(){
     int arr[50],n;
 
-    printf("Enter the amount of element you want to insert : \n");
+    printf("Enter the amount of elements you want to insert : \n");
     scanf("%d",&n);
-
+  
+    printf("Enter Array Elsements : \n");
+  
     for (int i=0; i<n ;i++){
         scanf("%d",&arr[i]);
     }
