@@ -24,7 +24,9 @@ int main(){
     for (int i=0; i<n ;i++){
         scanf("%d",&arr[i]);
     }
-
+     
+    printf("The Array is : \n");
+  
      for (int i=0; i<n ;i++){
         printf("%d\t",arr[i]);
     }
